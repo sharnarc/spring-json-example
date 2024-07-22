@@ -1,0 +1,9 @@
+spring:
+  application:
+    optionsService:
+      file: "classpath:refund-options.json"
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/postgres
+    username: archie
+    password: archie
+

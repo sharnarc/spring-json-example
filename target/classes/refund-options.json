@@ -1,0 +1,46 @@
+{
+  "refundDataOptions": [
+    {
+      "businessArea": "EG00",
+      "modeOfPayment": "Cheque",
+      "paymentValue": [
+        {
+          "currency": "EGP",
+          "paymentMethod": "D",
+          "s4PaymentMethod": "4"
+        },
+        {
+          "currency": "USD",
+          "paymentMethod": "D",
+          "s4PaymentMethod": "4"
+        },
+        {
+          "currency": "EUR",
+          "paymentMethod": "D",
+          "s4PaymentMethod": "4"
+        }
+      ]
+    },
+    {
+      "businessArea": "EG00",
+      "modeOfPayment": "Bank",
+      "paymentValue": [
+        {
+          "currency": "EGP",
+          "paymentMethod": "Y",
+          "s4PaymentMethod": "7"
+        },
+        {
+          "currency": "USD",
+          "paymentMethod": "Y",
+          "s4PaymentMethod": "7"
+        },
+        {
+          "currency": "EUR",
+          "paymentMethod": "Y",
+          "s4PaymentMethod": "7"
+        }
+      ]
+    }
+  ]
+}
